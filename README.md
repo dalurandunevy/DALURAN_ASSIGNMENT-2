@@ -1,5 +1,6 @@
-# ASSIGNMENT 2 (SSIS V2)
-
+# Assignment 2 (SSIS V2)
+# Simple Student Information System
+This application can able to display list of students, can add new students, update students, edit, delete a students, and can search a student by ID Number. Also, it display list of course code and course name.
 
 # OUTPUT
 ![image](https://user-images.githubusercontent.com/103713712/172732948-161b8ed1-e23d-4030-ba9c-b940da962720.png)
